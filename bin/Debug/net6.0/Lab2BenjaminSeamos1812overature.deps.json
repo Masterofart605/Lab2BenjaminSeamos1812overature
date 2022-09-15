@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab2BenjaminSeamos1812overature/1.0.0": {
+        "runtime": {
+          "Lab2BenjaminSeamos1812overature.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab2BenjaminSeamos1812overature/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

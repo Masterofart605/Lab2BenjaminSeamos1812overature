@@ -1,0 +1,15 @@
+C:\Users\maste\code\Lab2BenjaminSeamos1812overature\bin\Debug\net6.0\Lab2BenjaminSeamos1812overature.exe
+C:\Users\maste\code\Lab2BenjaminSeamos1812overature\bin\Debug\net6.0\Lab2BenjaminSeamos1812overature.deps.json
+C:\Users\maste\code\Lab2BenjaminSeamos1812overature\bin\Debug\net6.0\Lab2BenjaminSeamos1812overature.runtimeconfig.json
+C:\Users\maste\code\Lab2BenjaminSeamos1812overature\bin\Debug\net6.0\Lab2BenjaminSeamos1812overature.dll
+C:\Users\maste\code\Lab2BenjaminSeamos1812overature\bin\Debug\net6.0\Lab2BenjaminSeamos1812overature.pdb
+C:\Users\maste\code\Lab2BenjaminSeamos1812overature\obj\Debug\net6.0\Lab2BenjaminSeamos1812overature.csproj.AssemblyReference.cache
+C:\Users\maste\code\Lab2BenjaminSeamos1812overature\obj\Debug\net6.0\Lab2BenjaminSeamos1812overature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\code\Lab2BenjaminSeamos1812overature\obj\Debug\net6.0\Lab2BenjaminSeamos1812overature.AssemblyInfoInputs.cache
+C:\Users\maste\code\Lab2BenjaminSeamos1812overature\obj\Debug\net6.0\Lab2BenjaminSeamos1812overature.AssemblyInfo.cs
+C:\Users\maste\code\Lab2BenjaminSeamos1812overature\obj\Debug\net6.0\Lab2BenjaminSeamos1812overature.csproj.CoreCompileInputs.cache
+C:\Users\maste\code\Lab2BenjaminSeamos1812overature\obj\Debug\net6.0\Lab2BenjaminSeamos1812overature.dll
+C:\Users\maste\code\Lab2BenjaminSeamos1812overature\obj\Debug\net6.0\refint\Lab2BenjaminSeamos1812overature.dll
+C:\Users\maste\code\Lab2BenjaminSeamos1812overature\obj\Debug\net6.0\Lab2BenjaminSeamos1812overature.pdb
+C:\Users\maste\code\Lab2BenjaminSeamos1812overature\obj\Debug\net6.0\Lab2BenjaminSeamos1812overature.genruntimeconfig.cache
+C:\Users\maste\code\Lab2BenjaminSeamos1812overature\obj\Debug\net6.0\ref\Lab2BenjaminSeamos1812overature.dll
